@@ -1,0 +1,18 @@
+.card
+{
+  width:600%;
+  height:100%;
+  border-width:5px;
+  border-color:blue;
+  background-color:blueviolet;
+  font-size:16px;
+  border-style:inset;
+  color:aquamarine;
+  text-align: center;
+}
+button{
+  background-color:chartreuse;
+  font-size:18px;
+  color:brown;
+  font-weight:bold;
+}
